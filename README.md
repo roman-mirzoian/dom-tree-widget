@@ -10,4 +10,5 @@ const script = document.createElement('script');
 script.src = 'https://cdn.jsdelivr.net/gh/roman-mirzoian/dom-tree-widget/widget.js';
 document.head.appendChild(script);
 ```
-![image](https://github.com/roman-mirzoian/dom-tree-widget/assets/54860641/b3bf41e4-0c54-4daf-9fba-b2351ef7f9a3)
+![image](https://github.com/roman-mirzoian/dom-tree-widget/assets/54860641/7a82563c-13ec-4eb7-8a90-e5832d606abb)
+
